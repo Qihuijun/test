@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="慕课网自动化测试">
+    <test name="imooc.testng">
+        <classes>
+            <class name="Login"></class>
+        </classes>
+    </test>
+</suite>

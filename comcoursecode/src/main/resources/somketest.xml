@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="慕课网自动化测试系统">
+    <test name="Test01">
+        <classes>
+            <class name="com.course.cases.LoginCase"></class>
+        </classes>
+    </test>
+    <listeners>
+        <listener class-name="com.course.utils.ExtentTestNGIReporterListener"></listener>
+    </listeners>
+</suite>
